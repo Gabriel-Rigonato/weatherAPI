@@ -1,2 +1,2 @@
 # weatherAPI
-Consumo de API criado para atividade da faculdade.
+Consumo de API em Python criado para atividade da faculdade.
